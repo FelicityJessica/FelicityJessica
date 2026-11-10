@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to Data Analysis
 - 📫You can reach me via felicityjessica.fj@gmail.com and Felicity Jessica on Linkedin
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: AData Analyst | Excel | Power BI | Statistics
+- ⚡ Fun fact: A Data Analyst | Excel | Power BI | Statistics
 Hi! I recently completed a course in Data Analysis, where I worked on real-world datasets like Supplement Sales Data (2020–2025). I specialize in uncovering insights using Excel for regression analysis and Power BI for compelling visualizations.
 
 🔍 Project Highlight:
